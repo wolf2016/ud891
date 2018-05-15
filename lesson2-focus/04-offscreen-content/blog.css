@@ -93,6 +93,13 @@ h6, .h6 {
   color: #595959;
 }
 
+/*
+ *
+ */
+ 
+.close {
+  visibility: hidden
+}
 
 /*
  * Main column and sidebar layout
